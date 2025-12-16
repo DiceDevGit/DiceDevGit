@@ -5,10 +5,10 @@
     <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,git,cs,py,vscode" />
   </a>
 </p>
-<!--
-**DiceDevGit/DiceDevGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m cu
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/DiceDevGit/DiceDevGit/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation"
+    src="https://github.com/DiceDevGit/DiceDevGit/blob/output/github-contribution-grid-snake.svg">
+</picture>
