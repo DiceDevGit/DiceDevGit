@@ -6,4 +6,6 @@
   </a>
 </p>
 
+<p align="center">
 ![snake gif](https://github.com/DiceDevGit/DiceDevGit/blob/output/github-snake-dark.svg)
+</p>
